@@ -1,0 +1,32 @@
+{
+  "theme_color": "#06092b",
+  "background_color": "#06092b",
+  "display": "fullscreen", 
+  "start_url": "/",
+  "scope": "." ,
+  "name": "React Avan\u00e7ado - Boilerplate",
+  "short_name": "React Avan\u00e7ado - Boilerplate",
+  "description": "React Avan\u00e7ado - Boilerplate",
+  "icons": [
+      {
+          "src": "/icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "/icon-256x256.png",
+          "sizes": "256x256",
+          "type": "image/png"
+      },
+      {
+          "src": "/icon-384x384.png",
+          "sizes": "384x384",
+          "type": "image/png"
+      },
+      {
+          "src": "/icon-512x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+  ]
+}
